@@ -9,7 +9,7 @@
 
 
 
-<p style="" > <b> I'm Henok, Fullstack development student from <img src="https://cdn-icons-png.flaticon.com/128/5372/5372763.png" width="18"/>  Ethiopia, Africa.</b>   </p>
+<p style="" > <b> I'm Henok, Fullstack development student at alx from <img src="https://cdn-icons-png.flaticon.com/128/5372/5372763.png" width="18"/>  Ethiopia, Africa.</b>   </p>
 
 
 
