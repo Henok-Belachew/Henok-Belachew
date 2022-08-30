@@ -9,8 +9,7 @@
 
 
 
-<p style="" > <b>I'm Henok, Fullstack <img width="30px" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> development student from <img src="https://cdn-icons-png.flaticon.com/128/5372/5372763.png" width="18"/>  Ethiopia, Africa.</b>   </p>
-
+<p style="" > <b>Hi there, I'm Henok. </br>  Fullstack <img width="30px" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> development student from <img src="https://cdn-icons-png.flaticon.com/128/5372/5372763.png" width="18"/>  Ethiopia, Africa.</br>   </p>
 
 
 
@@ -39,8 +38,9 @@
 ----
 
 <div style="display: flex; justify-content: space-between; " > 
-<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=henok-belachew&theme=dark">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=henok-belachew&show_icons=true&theme=radical&locale=en&layout=compact" alt="henokbelachew" />
+
+<img width="50%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
 
@@ -48,7 +48,7 @@
 *****
 
 <h3 align="center">Where to find me</h3>
-<div align="center"><a href="https://github.com/Henok-Belachew" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/henokbelachew2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<div align="left"><a href="https://github.com/Henok-Belachew" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/henokbelachew2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 
 <hr style="border:1px solid grey; background: grey">
