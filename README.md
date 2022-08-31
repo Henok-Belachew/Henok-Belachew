@@ -10,7 +10,7 @@
 
 
 
-<p style="" > <img width="20px" src="https://media.baamboozle.com/uploads/images/373006/1626915468_134996_gif-url.gif"> <b>there, I'm Henok. </br> A passionate <img width="30px" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> fullstack student from Ethiopia,  Africa. <img src="https://cdn-icons-png.flaticon.com/128/5372/5372763.png" width="18"/></br>   </p>
+<p style="" > <img width="20px" src="https://media.baamboozle.com/uploads/images/373006/1626915468_134996_gif-url.gif"> <b>there, I'm Henok. </br> A passionate <img width="30px" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> fullstack student from Ethiopia  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Animated-Flag-Ethiopia.gif" width="18"/>, Africa. </br>   </p>
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-<h3 align="center"><b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
+<h3 align="center"> <img width="45" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
 <p align="center" >
 <p align="center" >
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
