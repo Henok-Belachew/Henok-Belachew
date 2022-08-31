@@ -19,7 +19,7 @@
 
 
 
-<h3 align="center"> <img width="45" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
+<h3 align="center"> <img width="30" src="https://c.tenor.com/d3XCd3HUISoAAAAC/uhh-hush.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
 <p align="center" >
 <p align="center" >
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
