@@ -1,7 +1,7 @@
 
 
 <div style="display: flex; justify-content: space-between; " > 
-<img width=190px" src="./pic3.png">
+<img align="center" width=190px" src="./pic3.png">
 
 <img align="right" style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
 </div>
