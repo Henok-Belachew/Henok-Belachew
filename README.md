@@ -2,7 +2,7 @@
 
 <div style="display: flex;  " > 
 <p align="right">
-<img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" /> <img width="30" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"> </p>
+<img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" /> </p>
 <img align="" width=190px" src="./pic5.png">
 
 </div>
