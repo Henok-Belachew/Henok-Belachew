@@ -2,13 +2,10 @@
 <div style="display: grid; " >
 
 <p align="right">
-<img align="left" width="190px" src="./pic6.png">
+
 <img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
-
+<img align="left" width="190px" src="./pic6.png">
  </p>
-<!-- <img align="" width=190px" src="./pic6.png"> -->
-
-
 
 </div>
 
@@ -16,6 +13,8 @@
 
 
 <p style="" > <img width="20px" src="https://media.baamboozle.com/uploads/images/373006/1626915468_134996_gif-url.gif"> <b>there, I'm Henok. </br> A passionate <img width="30px" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> Fullstack student from Ethiopia  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Animated-Flag-Ethiopia.gif" width="18"/>, Africa. </br>   </p>
+
+
 
 
 
