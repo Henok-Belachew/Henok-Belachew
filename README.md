@@ -1,8 +1,12 @@
-<div style="display: flex;  " >
-<p align="right">
+<div>
+<div style="display: grid; " >
 
-<img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" /> <img width="30" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"> </p>
-<img align="" width=190px" src="./pic6.png">
+<p align="right">
+<img align="left" width="190px" src="./pic6.png">
+<img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
+
+ </p>
+<!-- <img align="" width=190px" src="./pic6.png"> -->
 
 
 
@@ -15,12 +19,13 @@
 
 
 
+
 <hr style="border:1px solid grey; background: grey">
 
 
 
 
-<h3 align="center"> <img width="30" src="https://c.tenor.com/d3XCd3HUISoAAAAC/uhh-hush.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
+<h3 align="center"> <img width="30" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/shushing-face_1f92b.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
 <p align="center" >
 <p align="center" >
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
