@@ -3,7 +3,7 @@
 <div style="display: flex;  " > 
 <p align="right">
 <img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" /> <img width="30" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"> </p>
-<img align="" width=190px" src="./pic5.png">
+<img align="" width=190px" src="./pic6.png">
 
 </div>
 
@@ -55,7 +55,7 @@
 *****
 
 <h3 align="center"> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> <b>Where to find me<b> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> </h3>
-<div align="center"><a href="https://github.com/Henok-Belachew" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/henokbelachew2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<div align="center"><a href="https://github.com/Henok-Belachew" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/welde_tsadik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 
 <hr style="border:1px solid grey; background: grey">
@@ -63,6 +63,3 @@
 
 
 
-
-<!-- <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 30 August, 11:08 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/Henok-Belachew/Henok-Belachew/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Henok-Belachew/Henok-Belachew?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Henok-Belachew/Henok-Belachew?style=flat-square&labelColor=343b41"/></p> -->
