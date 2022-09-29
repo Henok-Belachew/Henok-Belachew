@@ -1,7 +1,5 @@
 
-<hr style="border:1px solid grey; background: grey">
-
- <img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
+<img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
 <img align="left" width="190px" src="./pic6.png">
 
 
