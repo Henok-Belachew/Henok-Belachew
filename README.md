@@ -1,13 +1,17 @@
-<div>
-<div style="display: grid; " >
+<hr style="border:1px solid grey; background: grey">
+<div style="display: inline-block; " >
 
-<p align="right">
+<p align="right" style=
+"">
 
 <img align="right"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=Henok-Belachew&style=for-the-badge" />
 <img align="left" width="190px" src="./pic6.png">
  </p>
 
 </div>
+
+
+
 
 
 
