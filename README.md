@@ -23,7 +23,7 @@
 
 
 
-<hr style="border:1px solid grey; background: grey">
+<hr style="border:1px solid white; background: white"><hr style="border:5px solid white; background: white">
 
 
 
