@@ -48,7 +48,9 @@
 <img width="50%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
-
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=Henok-Belachew&theme=chartreuse-dark"
+     />
 
 
 
