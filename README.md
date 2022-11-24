@@ -33,6 +33,7 @@
     <img alt="" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/tailwindcss-%FF0000.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img alt="" src="">
     <img alt="" src="">
 </p>
@@ -48,9 +49,7 @@
 <img width="50%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=Henok-Belachew&theme=chartreuse-dark"
-     />
+
 
 
 
