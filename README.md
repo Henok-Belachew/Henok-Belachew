@@ -12,12 +12,12 @@
 
 
 
-<hr style="border:5px solid white; background: white">
+##
 
 
 
 
-<h3 align="center"> <img width="30" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/shushing-face_1f92b.gif"> <b>Languages and Software tools I'm familiar with: <img width="30" src="https://bestanimations.com/media/loading-gears/1548969320loading-gears-animation-13.gif"> <b/></h3>
+<h3 align="center">  <b>Languages and Software tools I'm familiar with:  <b/></h3>
 <p align="center" >
 <p align="center" >
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -38,23 +38,26 @@
     <img alt="" src="">
 </p>
 
+##
 
 </p>
-<hr style="border:5px solid white; background: white">
 
 
-<div style="display: flex; justify-content: space-between; " > 
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=henok-belachew&show_icons=true&theme=radical&locale=en&layout=compact" alt="henokbelachew" />
+
+<a href="https://github.com/henodk-belachew">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henok-belachew&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
 
 <img width="50%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
 
+<a href="https://github.com/henok-belachew"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henok-belachew&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
 
 
-<h3 align="center"> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> <b>Where to find me<b> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> </h3>
-<div align="center"><a href="https://github.com/Henok-Belachew" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/welde_tsadik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"></a>
+<h3 align="center"> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> <b>Find Me On<b> <img width="30" src="https://i0.wp.com/www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif?fit=319%2C338&ssl=1"> </h3>
+<div align="center"><a href="https://t.me/Welde_Tsadik" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://twitter.com/welde_tsadik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"></a>
 </div>
 
 ----
