@@ -52,7 +52,7 @@
 </div>
 
 
-<a href="https://github.com/henok-belachew"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henok-belachew&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a align="center"  href="https://github.com/henok-belachew"><img align="center" style="width:99%" alt="Henok's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henok-belachew&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
 
 
@@ -62,7 +62,6 @@
 
 ----
 
-<hr style="border:5px solid white; background: white">
 
 
 
