@@ -45,10 +45,10 @@
 
 
 <a href="https://github.com/henodk-belachew">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henok-belachew&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img style="width:49%" src="https://github-readme-streak-stats.herokuapp.com/?user=henok-belachew&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 
-<img width="50%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
+<img width="49%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
 
