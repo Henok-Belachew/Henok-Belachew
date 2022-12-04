@@ -51,6 +51,9 @@
 <img width="49%" height="10%" src="https://github-readme-stats.vercel.app/api?username=henok-belachew&show_icons=true&theme=radical"> 
 </div>
 
+<img width="100%" height="10%" src="./profile-summary-card-output/radical/0-profile-details.svg"> 
+</div>
+
 
 
 
