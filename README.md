@@ -34,6 +34,7 @@
     <img alt="" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/tailwindcss-%FF0000.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/react-%FF0000.svg?style=for-the-badge&logo=reactjs&logoColor=white">
     <img alt="" src="">
     <img alt="" src="">
 </p>
