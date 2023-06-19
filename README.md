@@ -69,7 +69,7 @@
 <div align="center"><a href="https://t.me/welde_tsadik" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://twitter.com/welde_tsadik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henok-belachew" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"></a>
 </div>
 
-----
+
 
 
 
