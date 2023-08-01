@@ -1,6 +1,6 @@
 
 
-<img align="left" width="100%" src="./new.jpg">
+<img align="left" width="100%" src="./Cover Blue.jpg">
 
 
 
