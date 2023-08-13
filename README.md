@@ -1,10 +1,6 @@
 
-
-<<<<<<< HEAD
 <img align="left" width="100%" src="./Header.jpg">
-=======
-<img align="left" width="100%" src="./Cover Blue.jpg">
->>>>>>> b84a22b6a9357cc2189713038439c24c9e593336
+
 
 
 
