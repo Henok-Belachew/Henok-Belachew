@@ -1,5 +1,5 @@
 
-<img align="left" width="100%" src="./Header.jpg">
+<img align="left" width="100%" src="./cover.jpg">
 
 
 
